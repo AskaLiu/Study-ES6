@@ -1,3 +1,5 @@
 # Study-ES6
-学习ES6
-*测试*
+Beginning
+
+## 参考
+[ECMAScript 6 入门](http://es6.ruanyifeng.com/)
